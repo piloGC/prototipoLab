@@ -38,6 +38,9 @@
           <li class="nav-item">
             <a class="nav-link" href="#">CATÁLOGO</a>
           </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">MI CUENTA</a>
+          </li>
         </ul>
       </div>
     </div>
